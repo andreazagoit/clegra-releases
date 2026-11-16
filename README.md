@@ -8,7 +8,7 @@ This repository only hosts the published builds of the Clegra desktop app. Each 
 
 ## Updates
 
-The Mac app checks this repository's latest release when it starts, when the Mac wakes and from **Clegra → Check for Updates…**. A newer version downloads in the background, is verified (checksum and Apple Developer ID signature) and installs when you restart the app.
+The Mac app checks this repository's latest release when it starts, when the Mac wakes and from **Clegra → Check for updates…**. A newer version downloads in the background, is verified (checksum and Apple Developer ID signature) and installs when you restart the app.
 
 The latest installer is always at
 `https://github.com/andreazagoit/clegra-releases/releases/latest/download/Clegra-arm64.dmg` (Apple Silicon, macOS 13 or later).
